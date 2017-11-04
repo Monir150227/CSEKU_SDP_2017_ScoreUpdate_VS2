@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> Live Scores </title>
+	<title> Live Scores &amp; Updates </title>
 	<link   rel="stylesheet" href="css/style.css" type="text/css"> </link>
 </head>
 <body>
